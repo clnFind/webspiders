@@ -1,2 +1,2 @@
 # webspiders
-Crawling for tender data from government websites。
+Crawling for tender data from government websites by scrapy。
