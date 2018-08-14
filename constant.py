@@ -21,5 +21,6 @@ SMTP_USER = ""
 SMTP_PWD = ""
 SMTP_PORT = 465
 
-RECEIVER = ["2445869410@qq.com", ]
+# 接收者邮箱
+RECEIVER = ["***", "***"]
 EMAIL_TITLE = "爬虫结果"
